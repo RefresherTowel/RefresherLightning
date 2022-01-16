@@ -32,11 +32,11 @@ branch_random_direction = 45;
 //	The max times an initial branch can branch again
 branch_max = 10;
 
-//	The starting position of the beam
+//	The starting position of the lightning
 start_x = 5;
 start_y = 5;
 
-//	The ending position of the beam (set to the mouse when clicked in the step event
+//	The ending position of the lightning (set to the mouse when clicked in the step event)
 end_x = undefined;
 end_y = undefined;
 
